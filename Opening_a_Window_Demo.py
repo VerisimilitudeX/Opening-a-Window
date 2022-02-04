@@ -1,8 +1,3 @@
-"""
-LESSON: 3.1 - Lines
-TECHNIQUE 1: Opening a Window
-DEMO
-"""
 import random
 import pygame
 pygame.init()
